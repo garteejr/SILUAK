@@ -12,4 +12,4 @@ class Menu extends Model
         'icon',
         'is_active'
     ];
-}
+} 
